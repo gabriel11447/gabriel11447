@@ -1,7 +1,7 @@
 # Hello world! 👋
 
 ### About me
-Front-end & mobile developer @ The Drivers Cooperative by CodeXTeam. 
+Software Engineer @ The Drivers Cooperative by CodeXTeam. 
 
 Currently working with React Native.
 

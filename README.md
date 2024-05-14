@@ -1,7 +1,7 @@
 # Hello world! 👋
 
 ### About me
-Software Engineer @ The Drivers Cooperative.
+Software Engineer @ Driver Systems
 
 Currently working at Co-op Ride and Co-op Drive apps. I'm focused on building and mantaining a rideshare system based in New York city and currently expanding to other places.
 

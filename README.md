@@ -12,3 +12,4 @@ I am focused on building and mantaining a rideshare system and currently expandi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Hasura](https://img.shields.io/badge/Hasura-3E3E0E?style=for-the-badge&logo=hasura)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-lightblue?style=for-the-badge&logo=tailwindcss)
+![Material](https://img.shields.io/badge/Material%20UI-14120F?style=for-the-badge&logo=mui)
